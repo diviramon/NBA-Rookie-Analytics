@@ -1,7 +1,10 @@
 # NBA-Rookie-Analytics
 Machine learning model to predict rookie success with one vs two seasons cost analysis.
-
+## <span class="c2"></span>
+Project written by:
+## <span class="c2"></span>
 *David Ramón Prados, Julia Scott, Spencer Sprawson*
+## <span class="c2"></span>
 **University of Waterloo, ON, Cananda**
 
 ## <span class="c2"></span>
@@ -110,7 +113,7 @@ Machine learning model to predict rookie success with one vs two seasons cost an
 
 <span class="c2"></span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 341.50px; height: 228.63px;">![](images/image28.png)</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 273.50px; height: 229.94px;">![](images/image34.png)</span>
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 200px; height: 200px;">![](images/image28.png)</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 200px; height: 200px;">![](images/image34.png)</span>
 
 <span class="c17 c3 c10">                        (a)                                                        (b)</span>
 
@@ -132,7 +135,7 @@ Machine learning model to predict rookie success with one vs two seasons cost an
 
 <span class="c2"></span>
 
-<span style="overflow: hidden; display: inline-block; margin: -0.00px 0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 427.20px; height: 34.95px;">![](images/image10.png)</span>
+<span style="overflow: hidden; display: inline-block; margin: -0.00px 0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 300px; height: 34.95px;">![](images/image10.png)</span>
 
 <span class="c17 c3 c10">Figure 4: Rookie Season Statistics.</span>
 
@@ -142,7 +145,7 @@ Machine learning model to predict rookie success with one vs two seasons cost an
 
 <span class="c2"></span>
 
-<span style="overflow: hidden; display: inline-block; margin: -0.00px 0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 427.20px; height: 33.01px;">![](images/image37.png)</span>
+<span style="overflow: hidden; display: inline-block; margin: -0.00px 0.00px; border: 1.33px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 300px; height: 33.01px;">![](images/image37.png)</span>
 
 <span class="c17 c3 c10">Figure 5: Two Seasons Average Statistics.</span>
 
